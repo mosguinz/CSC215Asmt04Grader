@@ -1,0 +1,18 @@
+Row 1 | Please enter 3 Integers:    1 2 3
+Row 2 | Please enter 3 Characters:  a b c
+Row 3 | Please enter 3 Strings:     hello how bye
+Row 4 | 1 Int, 1 Char, 1 String:    4 d hola
+
+Your 2D array of multiple data types:
+
+- Data Type View:
+               Integer                        Integer                        Integer
+               Character                      Character                      Character
+               String                         String                         String
+               Integer                        Character                      String
+
+- Data Value View:
+               1                              2                              3
+               a                              b                              c
+               hello                          how                            bye
+               4                              d                              hola
