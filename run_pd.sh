@@ -1,2 +1,3 @@
 javac *[dD]/*.java
-java *[dD]/*[cC]lient*.java < pd_stdin.txt
+cd *[dD]/
+java *[cC]lient*.java < ../pd_stdin.txt
