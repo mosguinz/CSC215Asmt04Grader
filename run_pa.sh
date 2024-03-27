@@ -1,0 +1,1 @@
+java *[aA]/*.java
